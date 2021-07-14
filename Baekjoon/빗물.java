@@ -41,4 +41,3 @@ public class BAEKJOON_14719 {
 		System.out.println(sum);
 	} // end of main
 } // end of main
-
